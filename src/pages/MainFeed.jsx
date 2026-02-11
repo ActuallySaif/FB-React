@@ -10,6 +10,8 @@ const MainFeed = () => {
             <PeopleSec />
             <NewPost />
             <Post />
+            <Post />
+            <Post />
         </div>
      );
 }
