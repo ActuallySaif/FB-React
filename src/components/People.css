@@ -1,0 +1,22 @@
+.PeopleCard{
+    width: 100%;
+    background: #FFF;
+    border-radius: 7px;
+    padding: 5px;
+}
+
+.PeopleImg{
+    width: 100%;
+}
+
+.PeopleProf{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.PeoplePfp{
+    width: 30px;
+    height: 30px;
+    
+}

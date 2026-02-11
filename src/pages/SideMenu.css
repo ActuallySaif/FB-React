@@ -6,7 +6,8 @@
     gap: 40px;
     align-items: center;
     background-color: white;
-    height: 90%;
+    height: 100%;
+    box-sizing: border-box;
 }
 
 .SideGroups{
