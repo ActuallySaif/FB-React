@@ -1,0 +1,17 @@
+.SideMenu{
+    padding: 10px 10px;
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: center;
+    background-color: white;
+    height: 90%;
+}
+
+.SideGroups{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

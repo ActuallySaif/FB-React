@@ -1,0 +1,28 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    height: 100%;
+}
+
+#root{
+    background-color: #F0F0F0;
+    height: 100%;
+}
+
+.SideGroupsHeader{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.HeaderBtn{
+    color: #1877F2;
+    font-size: 13px;
+}
+

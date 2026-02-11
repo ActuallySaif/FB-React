@@ -1,0 +1,6 @@
+.WatchBtn{
+    display: flex;
+    gap: 10px;
+    font-family: Arial;
+    padding-right: 250px;
+}

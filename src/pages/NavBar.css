@@ -1,0 +1,19 @@
+.NavBar{
+    display: flex;
+    padding: 30px;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    border-bottom: 2px #F0F0F0 solid;
+    background-color: white;
+}
+
+.LogoImg{
+    position: absolute;
+    left: 20px;
+}
+
+.NavBtns{
+    display: flex; 
+    gap: 70px;
+}
